@@ -2,7 +2,7 @@
 
 # Installation
 
-### Land-Slide
+### Flood 
 
 - How to build using docker-compose
 
